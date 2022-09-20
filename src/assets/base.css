@@ -1,0 +1,27 @@
+body {
+  
+  display: flex;
+  place-items: center;
+  background-color: rgb(252, 107, 107);
+  margin-top: 90px;
+  color: rgb(0, 0, 0);
+}
+
+#app {
+  padding: 2rem;
+  margin: 0 auto;
+  font-weight: 200;
+  max-width: 1280px;
+}
+input,
+select {
+  display: block;
+  margin: 10px;
+}
+button {
+  margin: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding: 10px;
+  background-color: white;
+}
